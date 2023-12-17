@@ -1,0 +1,67 @@
+#write {
+    width: 0;
+    color: rgb(255, 255, 255);
+    float: left;
+    font-family: FiraFlott;
+    font-weight:bold;
+    font-size: 24px;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: write 5s steps(22) 1s  infinite alternate;
+}
+
+#write span {
+    color: rgb(216, 216, 108);
+}
+
+#scrips {
+    float: left;
+    color: rgb(159, 212, 247);
+    font-family: FiraFlott;
+    font-weight:bold;
+    font-size: 24px;
+    animation: draw 0.5s linear 0s infinite;
+}
+
+@keyframes write {
+    from {
+        width: 0ch;
+    }
+    to {
+        width: 36ch;
+    }
+}
+
+@keyframes draw {
+    from {
+        opacity: 0%;
+    }
+    to {
+        opacity: 100%;
+    }
+    
+}
+
+.bord {
+    display: grid;
+    place-items: center;
+}
+
+::-webkit-textarea-placeholder {
+    display: inline-block;
+    opacity: 0.2;
+    transition: all 0.3s ease-in-out;
+    padding-right: .15em;
+    white-space: nowrap;
+    width: 0ch;
+    animation: write 5s steps(22) 1s infinite alternate;
+  }
+
+.BACK {
+    background-image: url(bgindex.gif);
+    background-color: blue;
+}
+
+.st {
+    color: white;
+}

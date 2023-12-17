@@ -1,0 +1,25 @@
+{
+    "001": {
+        "nama": "",
+        "pesan": {
+            "id_pesan64c53b5e64ffe": {
+                "pesan": "\u3000\u3000\ufe35 Hi~\n(''\\(\u25cf-\u25cf)\n \\ \/     0\\ \\\n  (          )''\n  \\__T__\/ ",
+                "waktu": "29\/07\/23 23:16:PM",
+                "reply": "oke",
+                "time": "30\/07\/23 09:01:AM"
+            },
+            "id_pesan64c53b8a61483": {
+                "pesan": "\ud83d\ude02\u2588\u2591\u2588\u2591\u2588 \u2588\u2584\u2580 \u2588\u2591\u2588\u2591\u2588 \u2588\u2584\u2580 \ud83e\udd23\n\ud83d\ude02\u2580\u2584\u2580\u2584\u2580 \u2588\u2591\u2588 \u2580\u2584\u2580\u2584\u2580 \u2588\u2591\u2588 \ud83e\udd23 ",
+                "waktu": "29\/07\/23 23:17:PM",
+                "reply": "wow!",
+                "time": "30\/07\/23 09:01:AM"
+            },
+            "id_pesan64c71f9e7041d": {
+                "pesan": "Mengapa Maharaja Cyno Marseno selalu berada di depan saat perang?",
+                "waktu": "31\/07\/23 09:42:AM",
+                "reply": "Karena dia ingin memastikan tidak ada leluconnya yang 'tertunda'!",
+                "time": "31\/07\/23 09:45:AM"
+            }
+        }
+    }
+}
